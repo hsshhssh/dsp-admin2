@@ -20,10 +20,6 @@ selenium-debug.log
 
 package-lock.json
 
-.babelrc
-.editorconfig
-.eslintignore
-.eslintrc.js
-.postcssrc.js
-.travis.yml
+node_modules.zip
+
 
